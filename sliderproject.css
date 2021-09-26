@@ -1,0 +1,391 @@
+body{
+    background-color: lightblue;
+}
+@media all and (max-width: 1926px) {
+    h1{
+        text-decoration: underline solid rgb(10, 151, 207);
+        letter-spacing: 3px;
+        margin: auto;
+        position: relative;
+        left: 30vw;
+    }
+    
+    .largestdiv{
+        height: 54vh;
+        background-color: white;
+        margin-top: 8vh;
+        padding-top: 4vh;
+        border-radius: 10px;
+    }
+    .seconddiv{
+        width: 10vw;
+        height: 20vh;
+        background-color: rgb(8, 197, 255);
+        margin: 0vh 35vw 0 35vw;
+        border-radius: 50%;
+    }
+    .img1{
+        width: 10vw;
+        height: 20vh;
+        object-fit: cover;
+        border-radius: 50%;
+        position: relative;
+        left: 34.7vw;
+        bottom: 19.6vh;
+    }
+    .head1{
+       position: relative;
+       bottom: 21vh;
+       left: 35vw;
+       letter-spacing: 3px;
+    }
+    .p1{
+        position: relative;
+        bottom: 23vh;
+        left: 35vw;
+        color:rgb(8, 197, 255); ;
+        
+    }
+    .p2{
+        position: relative;
+        bottom: 23vh;
+        left:3vw ;
+        right:5vw ;
+    }
+     .crazyones{
+    position: relative;
+    left: 36vw;
+    bottom: 27vh;
+    color: cornflowerblue;
+    background-color: white;
+    border-radius: 5px ;
+    } 
+     .crazytwos{
+        position: relative;
+        left: 38vw;
+        bottom: 27vh;
+        color: cornflowerblue;
+        background-color: white;
+        border-radius: 5px ;
+    
+    } 
+    .weird{
+        position: relative;
+        left: 35vw;
+        bottom: 28vh;
+        color: cornflowerblue;
+        background-color: white;
+        border-radius: 5px ;
+    } 
+}
+@media all and (max-width: 1256px) {
+    h1{
+        text-decoration: underline solid rgb(10, 151, 207);
+        letter-spacing: 3px;
+        margin: auto;
+        position: relative;
+        left: 30vw;
+    }
+    
+    .largestdiv{
+        height: 54vh;
+        background-color: white;
+        margin-top: 8vh;
+        padding-top: 4vh;
+        border-radius: 10px;
+    }
+    .seconddiv{
+        width: 14vw;
+        height: 20vh;
+        background-color: rgb(8, 197, 255);
+        margin: 0vh 35vw 0 35vw;
+        border-radius: 50%;
+    }
+    .img1{
+        width: 14vw;
+        height: 20vh;
+        object-fit: cover;
+        border-radius: 50%;
+        position: relative;
+        left: 34.7vw;
+        bottom: 19.6vh;
+    }
+    .head1{
+       position: relative;
+       bottom: 21vh;
+       left: 35vw;
+       letter-spacing: 3px;
+    }
+    .p1{
+        position: relative;
+        bottom: 23vh;
+        left: 35vw;
+        color:rgb(8, 197, 255); ;
+        
+    }
+    .p2{
+        position: relative;
+        bottom: 23vh;
+        left:3vw ;
+        right:5vw ;
+    }
+     .crazyones{
+    position: relative;
+    left: 36vw;
+    bottom: 27vh;
+    color: cornflowerblue;
+    background-color: white;
+    border-radius: 5px ;
+    } 
+     .crazytwos{
+        position: relative;
+        left: 38vw;
+        bottom: 27vh;
+        color: cornflowerblue;
+        background-color: white;
+        border-radius: 5px ;
+    
+    } 
+    .weird{
+        position: relative;
+        left: 35vw;
+        bottom: 28vh;
+        color: cornflowerblue;
+        background-color: white;
+        border-radius: 5px ;
+    } 
+}
+@media all and (max-width: 1026px) {
+    h1{
+        text-decoration: underline solid rgb(10, 151, 207);
+        letter-spacing: 3px;
+        margin: auto;
+        position: relative;
+        left: 30vw;
+    }
+    
+    .largestdiv{
+        height: 54vh;
+        background-color: white;
+        margin-top: 8vh;
+        padding-top: 4vh;
+        border-radius: 10px;
+    }
+    .seconddiv{
+        width: 15vw;
+        height: 20vh;
+        background-color: rgb(8, 197, 255);
+        margin: 0vh 35vw 0 35vw;
+        border-radius: 50%;
+    }
+    .img1{
+        width: 15vw;
+        height: 20vh;
+        object-fit: cover;
+        border-radius: 50%;
+        position: relative;
+        left: 34.6vw;
+        bottom: 19.6vh;
+    }
+    .head1{
+       position: relative;
+       bottom: 21vh;
+       left: 34vw;
+       letter-spacing: 3px;
+    }
+    .p1{
+        position: relative;
+        bottom: 23vh;
+        left: 34vw;
+        color:rgb(8, 197, 255); ;
+        
+    }
+    .p2{
+        position: relative;
+        bottom: 23vh;
+        left:3vw ;
+        right:5vw ;
+    }
+     .crazyones{
+    position: relative;
+    left: 36vw;
+    bottom: 27vh;
+    color: cornflowerblue;
+    background-color: white;
+    border-radius: 5px ;
+    } 
+     .crazytwos{
+        position: relative;
+        left: 38vw;
+        bottom: 27vh;
+        color: cornflowerblue;
+        background-color: white;
+        border-radius: 5px ;
+    
+    } 
+    .weird{
+        position: relative;
+        left: 34vw;
+        bottom: 28vh;
+        color: cornflowerblue;
+        background-color: white;
+        border-radius: 5px ;
+    } 
+}
+@media all and (max-width: 826px) {
+    h1{
+        text-decoration: underline solid rgb(10, 151, 207);
+        letter-spacing: 3px;
+        margin: auto;
+        position: relative;
+        left: 30vw;
+    }
+    
+    .largestdiv{
+        height: 54vh;
+        background-color: white;
+        margin-top: 8vh;
+        padding-top: 4vh;
+        border-radius: 10px;
+    }
+    .seconddiv{
+        width: 20vw;
+        height: 20vh;
+        background-color: rgb(8, 197, 255);
+        margin: 0vh 35vw 0 35vw;
+        border-radius: 50%;
+    }
+    .img1{
+        width: 20vw;
+        height: 20vh;
+        object-fit: cover;
+        border-radius: 50%;
+        position: relative;
+        left: 34vw;
+        bottom: 19.6vh;
+    }
+    .head1{
+       position: relative;
+       bottom: 21vh;
+       left: 34vw;
+       letter-spacing: 3px;
+    }
+    .p1{
+        position: relative;
+        bottom: 23vh;
+        left: 34vw;
+        color:rgb(8, 197, 255); ;
+        
+    }
+    .p2{
+        position: relative;
+        bottom: 23vh;
+        left:3vw ;
+        right:5vw ;
+    }
+     .crazyones{
+    position: relative;
+    left: 36vw;
+    bottom: 27vh;
+    color: cornflowerblue;
+    background-color: white;
+    border-radius: 5px ;
+    } 
+     .crazytwos{
+        position: relative;
+        left: 38vw;
+        bottom: 27vh;
+        color: cornflowerblue;
+        background-color: white;
+        border-radius: 5px ;
+    
+    } 
+    .weird{
+        position: relative;
+        left: 33vw;
+        bottom: 28vh;
+        color: cornflowerblue;
+        background-color: white;
+        border-radius: 5px ;
+    } 
+}
+@media all and (max-width: 550px) {
+h1{
+    text-decoration: underline solid rgb(10, 151, 207);
+    letter-spacing: 3px;
+    margin: auto;
+    position: relative;
+    left: 30vw;
+}
+
+.largestdiv{
+    height: 54vh;
+    background-color: white;
+    margin-top: 8vh;
+    padding-top: 4vh;
+    border-radius: 10px;
+}
+.seconddiv{
+    width: 30vw;
+    height: 20vh;
+    background-color: rgb(8, 197, 255);
+    margin: 0vh 35vw 0 35vw;
+    border-radius: 50%;
+}
+.img1{
+    width: 30vw;
+    height: 20vh;
+    object-fit: cover;
+    border-radius: 50%;
+    position: relative;
+    left: 34vw;
+    bottom: 19.6vh;
+}
+.head1{
+   position: relative;
+   bottom: 21vh;
+   left: 37vw;
+   letter-spacing: 3px;
+}
+.p1{
+    position: relative;
+    bottom: 23vh;
+    left: 36vw;
+    color:rgb(8, 197, 255); ;
+    
+}
+.p2{
+    position: relative;
+    bottom: 23vh;
+    left:3vw ;
+    right:5vw ;
+}
+ .crazyones{
+position: relative;
+left: 40vw;
+bottom: 27vh;
+color: cornflowerblue;
+background-color: white;
+border-radius: 5px ;
+} 
+ .crazytwos{
+    position: relative;
+    left: 42vw;
+    bottom: 27vh;
+    color: cornflowerblue;
+    background-color: white;
+    border-radius: 5px ;
+
+} 
+.weird{
+    position: relative;
+    left: 38vw;
+    bottom: 28vh;
+    color: cornflowerblue;
+    background-color: white;
+    border-radius: 5px ;
+}
+}
+
+
+
